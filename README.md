@@ -5,8 +5,3 @@ Tenho 52 anos e sou natural de Belém, Pará, Brasil. Concluí o ensino médio n
 
 Com tudo isso a aumentou a paixão por tecnologia e inovação, decidi me aprofundar mais no mundo do desenvolvimento de software, e estou focado em aprender as melhores práticas e tecnologias para criar soluções eficientes e escaláveis para diversas áreas. Estou sempre em busca de novos desafios e oportunidades para crescer como profissional e contribuir para a comunidade de tecnologia.
 
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexxlobato)](https://github.com/Alexxlobato/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexxlobato&show_icons=true)
-  
-</div>
