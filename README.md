@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Oi%2C+eu+sou+o+Alex+%F0%9F%91%8B;Engenharia+de+Software+%F0%9F%92%BB;Economia+Circular+na+Amaz%C3%B4nia+%F0%9F%8C%BF;Fazendo+acontecer+do+Par%C3%A1+pro+Brasil+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Subtle greeting -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=3000&color=8b949e&center=true&vCenter=true&width=500&duration=2000&lines=Oi%2C+eu+sou+o+Alex.+%F0%9F%91%8B;Belém%2C+Pará+%E2%80%94+Amazônia%2C+Brasil.;Engenharia+de+Software+%2B+impacto+real." alt="Typing SVG" />
 
 <br/>
 
@@ -72,18 +72,17 @@ const alex = {
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividade no GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alexxlobato&show_icons=true&theme=dark&bg_color=0d1117&title_color=00C896&icon_color=00C896&text_color=c9d1d9&border_color=21262d&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxlobato&layout=compact&theme=dark&bg_color=0d1117&title_color=00C896&text_color=c9d1d9&border_color=21262d&langs_count=6" />
+<!-- Gráfico de contribuições oficial do GitHub (sempre funciona) -->
+![Contribuições](https://ghchart.rshah.org/00C896/Alexxlobato)
 
-</div>
+<br/>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Alexxlobato&theme=dark&background=0d1117&border=21262d&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)
+<!-- Troféus do GitHub -->
+<img src="https://github-profile-trophy.vercel.app/?username=Alexxlobato&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
