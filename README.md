@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Subtle greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=3000&color=8b949e&center=true&vCenter=true&width=500&duration=2000&lines=Oi%2C+eu+sou+o+Alex.+%F0%9F%91%8B;Belém%2C+Pará+%E2%80%94+Amazônia%2C+Brasil.;Engenharia+de+Software+%2B+impacto+real." alt="Typing SVG" />
+### Oi, eu sou o Alex &nbsp;👋
 
 <br/>
 
@@ -72,14 +71,14 @@ const alex = {
 
 ---
 
-## 📊 Atividade no GitHub
+## 📊 Estatísticas
 
 <div align="center">
 
-<!-- Gráfico de contribuições oficial do GitHub (sempre funciona) -->
-![Contribuições](https://ghchart.rshah.org/00C896/Alexxlobato)
+<!-- Top linguagens usadas nos repositórios -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxlobato&layout=donut&theme=dark&bg_color=0d1117&title_color=00C896&text_color=c9d1d9&border_color=21262d&langs_count=6" />
 
-<br/>
+<br/><br/>
 
 <!-- Troféus do GitHub -->
 <img src="https://github-profile-trophy.vercel.app/?username=Alexxlobato&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
